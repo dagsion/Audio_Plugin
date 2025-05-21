@@ -3,3 +3,6 @@
 useful links:
 https://www.martin-finke.de/articles/audio-plugins-001-introduction/
 https://github.com/iPlug2/iPlug2?tab=readme-ov-file#c-audio-plug-in-framework-for-desktop-mobile-ios-and-web
+
+
+nvm I am going to work on juce
